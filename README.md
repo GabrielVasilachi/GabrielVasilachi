@@ -54,14 +54,13 @@ I like building small, useful products with clean UI, real backend logic, authen
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/GabrielVasilachi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielVasilachi&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&bg_color=0D1117" height="160" />
-  </a>
-  <a href="https://github.com/GabrielVasilachi?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVasilachi&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" height="160" />
-  </a>
-</p>
+<div align="center">
+
+### Current focus
+
+`React` · `TypeScript` · `.NET` · `Supabase` · `Clean UI`
+
+</div>
 
 <br/>
 
