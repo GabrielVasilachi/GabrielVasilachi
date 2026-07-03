@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=180&section=header&text=Gabriel%20Vasilachi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20.NET&descSize=15&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:3B2A1E,100:D97706&height=180&section=header&text=Gabriel%20Vasilachi&fontSize=42&fontColor=FFF7ED&animation=fadeIn&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20React%20%C2%B7%20TypeScript%20%C2%B7%20.NET&descSize=15&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=650&lines=Clean+interfaces.+Reliable+backends.;Building+web+apps+with+React+%26+.NET.;Focused+on+simple+systems+that+actually+work." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=F2A65A&center=true&vCenter=true&width=650&lines=Warm+design.+Clean+code.+Useful+products.;Building+web+apps+with+React+%26+.NET.;Simple+systems+that+feel+good+to+use." />
 </p>
 
 <br/>
@@ -37,9 +37,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Apps-1F6FEB?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Style-Clean%20UI-238636?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Mindset-Build%20Daily-8957E5?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Apps-D97706?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Style-Warm%20Minimalism-B45309?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Mindset-Build%20Daily-F59E0B?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <br/>
@@ -48,7 +48,7 @@
 
 ### Selected direction
 
-I like building small, useful products with clean UI, real backend logic, authentication, databases, and simple user flows.
+I build small, useful digital products with clean interfaces, real backend logic, authentication, databases, and simple user flows.
 
 </div>
 
@@ -88,16 +88,26 @@ I like building small, useful products with clean UI, real backend logic, authen
 
 <div align="center">
 
+### Build style
+
+`minimal design` · `clear structure` · `fast interfaces` · `practical features`
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### Connect
 
 <a href="mailto:gabrielvasilachi@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=B45309" />
 </a>
 <a href="https://www.linkedin.com/in/vasilachi-gabriel-335ab0192/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=D97706" />
 </a>
 <a href="https://github.com/GabrielVasilachi">
-  <img src="https://img.shields.io/badge/GitHub-Projects-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=92400E" />
 </a>
 
 </div>
@@ -105,5 +115,5 @@ I like building small, useful products with clean UI, real backend logic, authen
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,45:3B2A1E,100:0D1117&height=120&section=footer" />
 </p>
